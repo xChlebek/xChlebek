@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xChlebek
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, C# and Java
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C# and Java
 
 <!---
 xChlebek/xChlebek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
